@@ -30,8 +30,9 @@ simple to build real-time & user configurable analytics entirely in the browser.
 - Runtimes for the Browser, Python, and Node.js.
 
 ## Examples
+
 |||
-|:--|:--|
+|:---|:---|
 |[Superstore](https://bl.ocks.org/texodus/372d406997d5522ebaafb17f0f521d97)| A static `superstore.arrow` demo.|
 |[Editable Superstore](https://bl.ocks.org/texodus/45b868833c9f456bd39a51e606412c5d)| A static `superstore.arrow` demo with editing enabled.|
 |[Linked Superstore](https://bl.ocks.org/texodus/08fb5f1afccbd33e333453dc70db88ea)| An example of `<perspective-viewer>`s linked through click events.|
